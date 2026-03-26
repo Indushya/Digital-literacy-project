@@ -36,26 +36,40 @@ Task 2 – Digital Portfolio
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
-- `task-2-portfolio/kaggle.png`  
+- `task-2-portfolio/github.png`
+
+- <img width="1892" height="1021" alt="Screenshot 2026-03-26 184002" src="https://github.com/user-attachments/assets/675a21bf-c4b6-4dd5-8cd2-7b4768e6e0ae" />
+
+- `task-2-portfolio/linkedin.png`
+
+-<img width="1916" height="1085" alt="Screenshot 2026-03-24 231133" src="https://github.com/user-attachments/assets/3abbed0f-7ab6-4010-bd4b-e4903a05c596" />
+
+- `task-2-portfolio/kaggle.png`
+
+- <img width="1919" height="1027" alt="Screenshot 2026-03-24 232652" src="https://github.com/user-attachments/assets/2c89dd92-bd71-4159-8542-6a763f6ff7a4" />
+
 
 ---
 
  Task 3 – Coding & Collaboration Platforms
  Part A – Coding Platform
 - Platform: HackerRank  
-- Activity: Completed a beginner-level coding problem  
+- Activity: Completed a beginner-level coding problem
 
  Part B – Google Form
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
-🔗 Google Form Link: [Paste your link here]
+ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfGyodx0ZjexcgpKxuQ10NUasrqsGS3Yx1ZxTlcqxXlDJEDWQ/viewform?usp=publish-editor
 
 Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
+- `task-3-platforms/hackerrank.png`
+
+  <img width="1917" height="1083" alt="Screenshot 2026-03-25 001248" src="https://github.com/user-attachments/assets/c4a5e8d4-3b0f-48b2-a314-62a1479510c4" />
+
+- `task-3-platforms/google-form.png`
+
+- 
 - `task-3-platforms/responses.png`  
 
 ---
@@ -67,7 +81,9 @@ Files:
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`  
+- `task-4-email-etiquette/emails.txt`
+
+- 
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 ---
