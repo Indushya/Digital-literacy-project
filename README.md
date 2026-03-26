@@ -91,7 +91,8 @@ https://github.com/Indushya/Digital-literacy-project/blob/2127d960ddf5d672c17e61
 
 https://github.com/Indushya/Digital-literacy-project/blob/79fed1eb533569a75ae981c2bb72c097d1f4c833/TASK%204%20A%20Subject%20Application%20for%20Summer%20Inte.txt
  
- 
+ https://github.com/Indushya/Digital-literacy-project/blob/93a7d76a79929b2100b5a333b94c23521b91b4bc/TASK%204%20B%20SOCIAL%20MEDIA%20CHECKLIST.txt
+
  Task 5 – Cybercrime Awareness
 
 Case Study
