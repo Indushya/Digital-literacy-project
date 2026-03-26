@@ -112,7 +112,7 @@ https://github.com/Indushya/Digital-literacy-project/blob/de1ac68e6d355f8906bd84
  Project Report
 The detailed report of all tasks is included in the repository.
 
-File: `report/Project_Report.pdf`
+File: https://github.com/Indushya/Digital-literacy-project/blob/3c314b46eb87fd1c550615af7732d7cc0b3b3848/DIGITAL%20LITERACY%20PROJECT%20REPORT.docx
 
 ---
 
