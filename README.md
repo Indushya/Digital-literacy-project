@@ -105,7 +105,7 @@ Case Study
  Files:  
 -https://github.com/Indushya/Digital-literacy-project/blob/2ed23379d4e7502d689c96e1f4fe7dd548b46b52/TASK%205%20A%20PHIISHING%20CASE%20STUDY.txt
 
-- `task-5-cybercrime/prevention-checklist.txt`  
+https://github.com/Indushya/Digital-literacy-project/blob/de1ac68e6d355f8906bd8476f3b9406b866cf0f9/TASK%205%20B%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt
 
 ---
 
