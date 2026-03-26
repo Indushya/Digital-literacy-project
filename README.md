@@ -74,7 +74,8 @@ Files:
 
 - `task-3-platforms/responses.png`
 
-- 
+- <img width="1913" height="767" alt="Screenshot 2026-03-26 191534" src="https://github.com/user-attachments/assets/24ebab00-aee6-4940-9179-7e2270e58ada" />
+
 
 ---
 
@@ -87,7 +88,8 @@ Files:
  Files:  
 - `task-4-email-etiquette/emails.txt`
 - 
-https://github.com/Indushya/Digital-literacy-project/blob/main/Subject%20Request%20for%20Assignment%20Dead.txt
+  
+
 - 
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
