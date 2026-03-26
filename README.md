@@ -86,15 +86,7 @@ Files:
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`
-- 
-  TASK 4 Subject Request for Assignment Dead.txt
-
-  TASK 4 Subject Request for Assignment Dead.txt
-
-  
-- `task-4-email-etiquette/social-media-checklist.txt`  
-
+https://github.com/Indushya/Digital-literacy-project/blob/2127d960ddf5d672c17e6158fe4c17a5b335b3bb/TASK%204%20Subject%20Request%20for%20Assignment%20Dead.txt
 ---
 
  Task 5 – Cybercrime Awareness
